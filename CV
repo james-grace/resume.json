@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
+    "name": "James Grace",
+    "label": "Senior Technology Developer",
     "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "https://johndoe.com",
-    "summary": "A summary of John Doe…",
+    "email": "james.a.grace@hotmail.com",
+    "phone": "07821433851",
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "summary": "A summary of the life and times of James Grace",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
